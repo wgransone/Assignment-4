@@ -1,0 +1,28 @@
+body{
+  background-image: url('../images/bg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p { font: 15px Georgia, Serif; margin: 55px; color: white; max-width: 575px; text-align: justify;}
+h1 { font: 50px Georgia, Sans-Serif;
+    margin: 30px;
+    color: white;
+    text-align: center;
+}
+h2 { font: 35px Georgia, Serif; margin: 30px; color: #FFD700}
+h3 { font: 25px Georgia, Serif; margin: 15px; color: white}
+h4 { font: 20px Georgia, Serif; margin: 30px; color: white}
+h5 { font: 30px Georgia, Serif; margin: 30px; color: white; text-align: center;}
+
+em {
+    font-style: italic;
+}
+
+a {
+  font: 15px Georgia, Serif; color: blue;
+    background-color: #FFD700;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
